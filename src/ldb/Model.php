@@ -1,5 +1,5 @@
 <?php
-namespace manguto\ldb;
+namespace manguto\cms\ldb;
 
 use manguto\help\Help;
 

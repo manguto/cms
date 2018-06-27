@@ -1,6 +1,6 @@
 <?php
 
-namespace manguto\help;
+namespace manguto\cms\help;
 
 class Help{
     

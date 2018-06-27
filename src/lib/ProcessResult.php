@@ -1,5 +1,5 @@
 <?php
-namespace manguto\lib;
+namespace manguto\cms\lib;
 
 class ProcessResult
 {

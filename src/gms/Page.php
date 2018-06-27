@@ -1,6 +1,6 @@
 <?php
 
-namespace manguto\gms;
+namespace manguto\cms\gms;
 
 use Rain\Tpl;
 

@@ -68,7 +68,7 @@
 
 
 
-namespace manguto\lib;
+namespace manguto\cms\lib;
 
 
 
