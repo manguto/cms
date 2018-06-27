@@ -1,18 +1,20 @@
 {
     "name": "manguto/cms",
-    "type": "project",
-    "require": {    
-        "php": "^7.0.0",
-        "phpmailer/phpmailer":"5.2.22",
-    	"slim/slim":"2.0",
-    	"rain/raintpl":">=3.0.0"
-    },
+    "type": "library",
+    "description": "A Content Management System",
     "authors": [
         {
             "name": "Manguto",
             "email": "admin@manguto.com"
         }
     ],
+    "require": {    
+        "php": "^7.0.0",
+        "phpmailer/phpmailer":"5.2.22",
+    	"slim/slim":"2.0",
+    	"rain/raintpl":">=3.0.0"
+    },
+    
     "autoload": {
         "classmap": ["src/lib","src/help","src/gms","src/ldb"]
     },     
